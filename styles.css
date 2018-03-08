@@ -1,0 +1,24 @@
+.facts {
+	font-style: italic;
+}
+.title {
+	font-weight: bold;
+}
+ul {
+	list-style-type: none;
+	padding-left:0;
+}
+.favorite-animal{
+	width: 300px;
+	border: 2px solid lightgray;
+	box-shadow: 5px 5px lightgrey;
+	padding: 10px;
+	
+}
+.elephant-info {
+	width: 280px;
+	border: 1px solid lightgray;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 14px;
+}
